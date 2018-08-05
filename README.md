@@ -1,5 +1,5 @@
 # MaterialUI
-This app is based on Complete Material design component's and it's guideline.
+This app is based on Complete Material design component's and it's guideline based on Google.
 
 # Gradle Dependencies
 Put this all dependency in your ```build.gradle(app)``` file
